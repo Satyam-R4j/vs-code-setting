@@ -1,0 +1,35 @@
+"workbench.colorCustomizations": {
+        "editorMarkerNavigation.background": "#609f08",
+        "editorBracketHighlight.foreground1": "#ff0000",
+        "editorBracketHighlight.foreground2": "#ffffff",
+        "editorBracketHighlight.foreground3": "#ffff00",
+        "editorBracketHighlight.foreground4": "#ff00c8",
+        "editorBracketHighlight.foreground5": "#00ffe1",
+        "editorBracketHighlight.foreground6": "#00ff91",
+
+
+
+        "editor.background": "#1b1919",
+        "htmlEndTagLabels.labelColor": "#bcbcbc8e",
+        // "symbolIcon.operatorForeground":"#ff0707"
+        "activityBar.background": "#1b1919", // Background color of the activity bar
+        "activityBar.foreground": "#FFFFFF", // Color of the icons in the activity bar
+        "activityBar.inactiveForeground": "#ffffff", // Color of the inactive icons in the activity bar
+        "activityBar.border": "#00ff3cc8", // Border color of the activity bar
+        "activityBarBadge.background": "#b30198", // Background color of badges in the activity bar
+        "activityBarBadge.foreground": "#FFFFFF", // Foreground color of badges in the activity bar
+
+
+
+        //setting 2
+        "titleBar.activeBackground": "#1b1919", // Background color of the title bar when the window is active
+        "titleBar.activeForeground": "#FFFFFF", // Foreground (text) color of the title bar when the window is active
+        "titleBar.inactiveBackground": "#444444", // Background color of the title bar when the window is inactive
+        "titleBar.inactiveForeground": "#AAAAAA", // Foreground color of the title bar when the window is inactive
+        "toolbar.hoverBackground": "#555555", // Background color of toolbar items when hovered
+        "toolbar.activeBackground": "#666666", // Background color of toolbar items when active
+        "toolbar.activeForeground": "#FFFFFF" ,// Foreground (icon) color of toolbar items when active
+
+        "statusBar.background": "#881096",
+
+    },

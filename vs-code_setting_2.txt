@@ -1,0 +1,131 @@
+{
+    "editor.mouseWheelZoom": true,
+    "python.analysis.completeFunctionParens": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "punctuation.definition.tag.begin",
+                    "punctuation.definition.tag.end"
+                ],
+                "settings": {
+                    "foreground": "#ffffff"
+                },
+            },
+            // {
+            //     "scope": "text.html.basic", // Targets plain text content inside HTML tags
+            //     "settings": {
+            //         "foreground": "#bbff00" // Custom color for text inside HTML tags
+            //     }
+            // }
+            
+            // {
+            //     "scope": "text.html.basic", // Targets plain text content inside HTML tags
+            //     "settings": {
+            //         "foreground": "#FF4500" // Custom color for text inside HTML tags
+            //     }
+            // }
+
+            // {
+            //     "scope": "entity.name.tag.html", // Targets the HTML tags themselves (like <div>)
+            //     "settings": {
+            //         "foreground": "#ff1919" // Custom color for HTML tag names (e.g., div, span, etc.)
+            //     }
+            // },
+            // {
+            //     "scope": "punctuation.definition.tag.begin.html", // Targets the opening < of the tag
+            //     "settings": {
+            //         "foreground": "#ffffff" // Color for the opening '<'
+            //     }
+            // },
+            // {
+            //     "scope": "punctuation.definition.tag.end.html", // Targets the closing > of the tag
+            //     "settings": {
+            //         "foreground": "#ffffff" // Color for the closing '>'
+            //     }
+            // },
+            // {
+            //     "scope": "entity.other.attribute-name.html", // Targets the attribute names (like class, id)
+            //     "settings": {
+            //         "foreground": "#00ff15" // Color for attribute names
+            //     }
+            // },
+            // {
+            //     "scope": "string.quoted.double.html", // Targets attribute values (like "container")
+            //     "settings": {
+            //         "foreground": "#ffe600" // Color for attribute values within quotes
+            //     }
+            // }
+        ]
+    },
+    "editor.stickyScroll.enabled": false,
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "Neon Vommit",
+    "editor.fontFamily": "Fira Code ,Consolas, 'Courier New', monospace",
+    "code-runner.runInTerminal": true,
+    "java.configuration.runtimes": [],
+    "code-runner.saveFileBeforeRun": true,
+    "editor.linkedEditing": true,
+    "workbench.preferredDarkColorTheme": "Neon Vommit",
+    "window.systemColorTheme": "dark",
+    "workbench.colorCustomizations": {
+        "editorMarkerNavigation.background": "#609f08",
+        "editorBracketHighlight.foreground1": "#ff0000",
+        "editorBracketHighlight.foreground2": "#ffff00",
+        "editorBracketHighlight.foreground3": "#ffffff",
+        // "editorBracketHighlight.foreground4": "#ff00c8",
+        // "editorBracketHighlight.foreground5": "#cdffa1",
+        // "editorBracketHighlight.foreground6": "#a20026",
+        "editor.background": "#1a1717",
+        "htmlEndTagLabels.labelColor": "#bcbcbc8e",
+        // "symbolIcon.operatorForeground":"#ff0707"
+        "activityBar.background": "#1b1919", // Background color of the activity bar
+        "activityBar.foreground": "#FFFFFF", // Color of the icons in the activity bar
+        "activityBar.inactiveForeground": "#ffffff", // Color of the inactive icons in the activity bar
+        "activityBar.border": "#00ff3cc8", // Border color of the activity bar
+        "activityBarBadge.background": "#d70202", // Background color of badges in the activity bar
+        "activityBarBadge.foreground": "#FFFFFF", // Foreground color of badges in the activity bar
+        //setting 2
+        "titleBar.activeBackground": "#1b1919", // Background color of the title bar when the window is active
+        "titleBar.activeForeground": "#FFFFFF", // Foreground (text) color of the title bar when the window is active
+        "titleBar.inactiveBackground": "#121010", // Background color of the title bar when the window is inactive
+        "titleBar.inactiveForeground": "#AAAAAA", // Foreground color of the title bar when the window is inactive
+        "toolbar.hoverBackground": "#161414", // Background color of toolbar items when hovered
+        "toolbar.activeBackground": "#1e1c1c", // Background color of toolbar items when active
+        "toolbar.activeForeground": "#FFFFFF", // Foreground (icon) color of toolbar items when active
+        "statusBar.background": "#0000007d",
+    },
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-pets.petType": "rat",
+    "editor.autoClosingBrackets": "always",
+    "editor.guides.bracketPairs": true,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "notebook.cellFocusIndicator": "border",
+    "notebook.formatOnSave.enabled": true,
+    "notebook.output.wordWrap": true,
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.donotVerifyTags": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.userWords": [
+        "todos"
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.exclude": {
+        "**/.git": false
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme"
+}
